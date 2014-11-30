@@ -1,8 +1,14 @@
 #BlueJ class context
 comment0.params=
-comment0.target=void\ conversationOnePrompt()
+comment0.target=void\ customerOpen()
 comment1.params=
-comment1.target=void\ conversationTwoPrompt()
+comment1.target=void\ customerClosed()
 comment2.params=
-comment2.target=void\ conversationThreePrompt()
-numComments=3
+comment2.target=void\ customer()
+comment3.params=item
+comment3.target=void\ conversationOnePrompt(java.lang.String)
+comment4.params=item
+comment4.target=void\ conversationTwoPrompt(java.lang.String)
+comment5.params=item
+comment5.target=void\ conversationThreePrompt(java.lang.String)
+numComments=6
