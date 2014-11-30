@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\r\n
+comment2.params=
+comment2.target=void\ createRooms()
+comment2.text=\r\n\ Create\ all\ the\ rooms\ and\ link\ their\ exits\ together.\r\n
+numComments=3
